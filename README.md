@@ -57,15 +57,15 @@
 > End-to-end ML project on Telco dataset · EDA → Preprocessing → Model → Streamlit App  
 > `Python` `scikit-learn` `Pandas` `Seaborn` `Streamlit`
 
-### 🎬 [IMDb Movie Analytics](https://github.com/vaibhavi-03)
+### 🎬 [IMDb Movie Analytics](https://github.com/vaibhavi-03/imdb-movie-analytics)
 > Exploratory analysis of movie trends, ratings, and box office performance  
 > `Python` `Pandas` `Matplotlib`
 
-### 🌍 [ClimateAware AI Web App](https://github.com/vaibhavi-03)
+### 🌍 [ClimateAware AI Web App](https://github.com/vaibhavi-03/CAC)
 > AI-powered web application for climate data insights  
 > `Python` `Streamlit`
 
-### 📊 [Power BI Dashboards](https://github.com/vaibhavi-03)
+### 📊 [Power BI Dashboards](https://github.com/vaibhavi-03/Power_BI_Projects)
 > Interactive business dashboards for data storytelling  
 > `Power BI` `DAX`
 
@@ -95,5 +95,5 @@
 ---
 
 <p align="center">
-  <i>Open to internships and entry-level Data Science / Analyst roles from Jan 2027</i>
+  <i>Open to internships and entry-level Data Science / Analyst roles</i>
 </p>
