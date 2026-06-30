@@ -89,7 +89,7 @@
 ```text
 📌 Customer Churn Prediction    ████████░░░░  Weekend 1/5 complete
 📌 DS Placement Roadmap         ███░░░░░░░░░  SQL + Stats + ML in progress
-📌 GRAS ML Program              ████░░░░░░░░  Module 4/10 complete
+📌 GRAS ML Program              ████░░░░░░░░  Module 1/10 complete
 ```
 
 ---
