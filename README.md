@@ -8,7 +8,7 @@
   <a href="https://vaibhavi-03.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="prajapativaibhavi203mail@gmail.com" target="_blank">
+  <a href="mailto:prajapativaibhavi203mail@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -73,16 +73,16 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavi-03&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavi-03&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
-</p>
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vaibhavi-03&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vaibhavi-03&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vaibhavi-03&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavi-03&theme=tokyonight&hide_border=true"/>
+</p>
 ---
 
 ## 📅 Currently Working On
