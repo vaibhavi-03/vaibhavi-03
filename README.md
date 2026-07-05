@@ -86,9 +86,8 @@
 ## 📅 Currently Working On
 
 ```text
-📌 Customer Churn Prediction    ████████░░░░  Weekend 2/5 complete
-📌 DS Placement Roadmap         ███░░░░░░░░░  SQL + Stats + ML in progress
-📌 GRAS ML Program              ████░░░░░░░░  Module 2/10 complete
+📌 Customer Churn Prediction    ██████░░░░░░░░░░  Weekend 2/5 complete
+📌 GRAS ML Program              ████░░░░░░░░░░░░  Module 2/10 complete
 ```
 
 ---
