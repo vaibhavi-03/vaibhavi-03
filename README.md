@@ -87,7 +87,7 @@
 
 ```text
 📌 Customer Churn Prediction    ██████░░░░░░░░░░  Weekend 2/5 complete
-📌 GRAS ML Program              ████░░░░░░░░░░░░  Module 2/10 complete
+📌 GRAS ML Program              ████░░░░░░░░░░░░  Module 2/9 complete
 ```
 
 ---
