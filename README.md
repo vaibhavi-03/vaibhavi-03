@@ -37,66 +37,6 @@
 
 <br>
 
-### 📈 ML Learning Roadmap
-
-<table>
-<tr><td width="70">
-
-**01**
-</td><td>
-
-Python, NumPy & Pandas
-</td><td>
-
-✅ **Done**
-</td></tr>
-<tr><td>
-
-**02**
-</td><td>
-
-Statistics & Probability
-</td><td>
-
-✅ **Done**
-</td></tr>
-<tr><td>
-
-**03**
-</td><td>
-
-Data Preprocessing & EDA
-</td><td>
-
-✅ **Done**
-</td></tr>
-<tr><td>
-
-**04**
-</td><td>
-
-Regression Algorithms
-</td><td>
-
-🔄 **In Progress**
-</td></tr>
-<tr><td>
-
-**05**
-</td><td>
-
-Classification Algorithms
-</td><td>
-
-⬜ Upcoming
-</td></tr>
-</table>
-
-![Progress](https://progress-bar.dev/60/?title=Modules%20Completed&width=400&color=6C63FF)
-
-
-<br>
-
 ### 🚀 Featured Project
 
 <a href="https://github.com/vaibhavi-03/customer-churn-prediction">
